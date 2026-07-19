@@ -1,5 +1,8 @@
 Copyright © 2026 Lily Morningstar
 
+Educational materials are licensed under CC BY-NC-SA 4.0.
+Source code is licensed under the MIT License.
+
 The educational content, documentation, challenge descriptions, and other
 non-software materials in this repository are licensed under the Creative
 Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
